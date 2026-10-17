@@ -1,2 +1,11 @@
-# prostate-mri-csPCa
-Deep learning for clinically significant prostate cancer detection on biparametric MRI (PI-CAI dataset), with cross-center validation, calibration analysis and Grad-CAM explainability. Research prototype, not for clinical use.
+# Prostate Cancer Detection on bpMRI
+
+This project builds a deep learning model to detect clinically significant prostate cancer on biparametric MRI using the public PI-CAI dataset, and evaluates how well it generalizes to unseen hospitals and how reliable its confidence scores are.
+
+> Research prototype for learning and portfolio purposes. Not for clinical use.
+
+## Status
+Work in progress.
+
+## License
+Code: MIT. The PI-CAI dataset is not included and remains under its own license terms.
